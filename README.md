@@ -1,2 +1,2 @@
-# Advanced_Nodejs
-This is an Node Website with Some Advanced Feature
+# AdvancedNodeStarter
+Starting project for a course on Advanced Node @ Udemy
